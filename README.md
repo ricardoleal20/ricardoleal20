@@ -21,6 +21,9 @@ Right now i'm part of a research in Nanomaterials at the departament of Physics 
 #### Simulation of the tympanical membrane.
 <img src='https://github.com/ricardoleal20/ricardoleal20/blob/main/example2.gif' width='256' />
 
+#### Simulation of heat conduction in a long bar.
+<img src='https://github.com/ricardoleal20/ricardoleal20/blob/main/example3.gif' width='256' />
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ricardoleal20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ricardoleal20/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ricardo_leal420)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ricardoleal20.github.io/Blog/)  
 
 
