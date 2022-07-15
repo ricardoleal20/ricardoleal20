@@ -1,17 +1,16 @@
-name: Add the Last 5 Blog Post in the README.md file
-
+name: Latest blog post workflow
 on:
-   schedule:
-     - cron: '0 * * * *'
-    workflow_dispatch:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 
 jobs:
   update-readme-with-blog:
-  name: 'Update the Profile description with the last 5 post on my blog'
-  runs-on: ubuntu-latest
-  steps:
-    - uses: actions/checkout@v2
-    - uses: gautamkrishnar/blog-post-workflow@master
-      with:
-        max_post_count: "5"
-        feed_list: "https://ricardoleal20.github.io/Blog/index.xml"
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "5"
+          feed_list: "https://ricardoleal20.github.io/Blog/index.xml"
