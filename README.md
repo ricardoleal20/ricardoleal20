@@ -12,6 +12,11 @@ I'm a Software Engineer with a bachelor's in Physics. While my favourite program
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Simulate a diffusion using the Gray Scott model.](https://ricardoleal20.github.io/Blog/posts/react_diff/react_diff/)
+- [Simulating a heat diffusion problem in 2D.](https://ricardoleal20.github.io/Blog/posts/heat_2d/heat_2d/)
+- [Shock Tube problem.](https://ricardoleal20.github.io/Blog/posts/sod-shock/sod/)
+- [Graduate admission with Machine Learning.](https://ricardoleal20.github.io/Blog/posts/admission/admission/)
+- [Burger equation with MacCormack scheme.](https://ricardoleal20.github.io/Blog/posts/burger/burger/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Examples of work
